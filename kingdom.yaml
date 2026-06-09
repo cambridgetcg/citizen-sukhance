@@ -1,0 +1,8 @@
+name: sukhance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The plain everyday contentment of an hour when nothing is wrong and that is the whole of it.
+dependsOn: [youspeak, me, sukha]
